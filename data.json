@@ -1,0 +1,132 @@
+{
+	"data": [{
+		"type": 0,
+		"title": "04' 1984 - About me :)",
+		"client": "",
+		"description": "Hey there,\nMy name is Pedro.I'm an Brazilian technologist based in London passionate for coding, art and technology.\nKeen to think that technology should take people back to the real life and not the other way around, i've been pushing myself to play more with installations, arduino, projection mapping, games, unity, c#, c++, cinder, oF, node.js, data analysis and visualization.\nIf by any chance you want to make some cool project, partnerships or have some cold beers, give me a shout.\npedro.garlaschi@gmail.com",
+		"skills": "",
+		"link": ""
+	}, 
+	{
+		"type": 2,
+		"title": "11' 2016 - Buendiacollective",
+		"client": "Collaboration",
+		"description": "Collaboration to create a library where people can share and track books around public spaces.",
+		"skills": "nodejs, mongodb, js, html, css",
+		"link": "http://buendiacollective.org"
+	},
+	{
+		"type": 1,
+		"title": "10' 2016 - HTC Vive Ford Kuga VR",
+		"client": "Inition",
+		"description": "HTC Vive Game for the new ford kuga event.",
+		"skills": "unity3d, HTC Vive, VR",
+		"link": "https://www.inition.co.uk/case_study/state-art-virtual-reality-experience-ford-kuga/"
+	}, {
+		"type": 1,
+		"title": "08' 2016 - HTC Vive & Microsoft HoloLens prototyping",
+		"client": "The Masters of Pie",
+		"description": "HTC Vive & HoloLens prototype for a network collaborative environment.",
+		"skills": "unity3d, network",
+		"link": "http://www.mastersofpie.com/"
+	}, {
+		"type": 2,
+		"title": "07' 2016 - Balloon Data",
+		"client": "Colaboration",
+		"description": "On going IOT collaboration project where a balloon sculpture represent the amount of collected data from different social platforms.",
+		"skills": "unity3d, node.js, 3d printing, arduino, c++, BLE",
+		"link": "https://www.dropbox.com/s/18n38mcxhh9twos/Ballooning%20Data.pdf?dl=0"
+	}, {
+		"type": 1,
+		"title": "05' 2016 - Renault Markerless AR",
+		"client": "Inition",
+		"description": "Markerless AR for Renault at the Spa Fields Park London where i've used a motion capture system to triangulate the position of the ipads and create an particle airflow on the top of the real concept car.",
+		"skills": "unity3d, motion capture, unity network, ios",
+		"link": "https://www.inition.co.uk/case_study/markerless-ar-installed-renault-clerkenwell-design-week/"
+	}, {
+		"type": 2,
+		"title": "03' 2016 - International women's day",
+		"client": "Very good lady - Colaboration",
+		"description": "From a particle system and data analyses twitter stream lab we came up with the idea to get tweets with #internationalwomenday and convert in a particle system with the faces of powerful women in the world",
+		"skills": "node.js, express, twitter api, three.js, html5, css",
+		"link": "https://vimeo.com/165711169"
+
+	}, {
+		"type": 3,
+		"title": "02' 2016 - Buses London",
+		"client": "Lab",
+		"description": "Processing data visualization lab using the public data from the bus stops in London.",
+		"skills": "processing",
+		"link": "https://vimeo.com/165711167"
+	}, {
+		"type": 3,
+		"title": "02' 2016 - Particle nodes",
+		"client": "Lab",
+		"description": "Processing particle system.",
+		"skills": "processing, noise",
+		"link": "https://vimeo.com/165711168"
+	}, {
+		"type": 1,
+		"title": "11' 2015 - Zappos selfie sofa",
+		"client": "Rehabstudio",
+		"description": "Physical installation at the Barclays Center NY where the participant could have an conversation with the clt member and shoot a 7sec video recorded from a customized rail system attached to the ceiling.",
+		"skills": "node.js, socket.io, express, webrtc, ffmpeg, swift 2, arduino, sensors, motors, html.",
+		"link": ""
+	}, {
+		"type": 1,
+		"title": "03' 2015 - Professor Astro Cat",
+		"client": "Minilab",
+		"description": "Lovely children app full of anymations winner of the webby awards 2016.",
+		"skills": "Unity3d, Objective-c",
+		"link": "https://goo.gl/0Upw1y"
+	}, {
+		"type": 1,
+		"title": "05' 2014 - Cartoon Network pinball",
+		"client": "Interativaonline",
+		"description": "Combination of Unity3d application with 3d character who integrate with an arduino to compute the points of a real life pinball.",
+		"skills": "Unity3d, Unity Network, arduino, sensors",
+		"link": "https://www.youtube.com/watch?v=fhFU7AzEO0s"
+	}, {
+		"type": 1,
+		"title": "03' 2014 - Future Ville",
+		"client": "Nexus Interactive Arts",
+		"description": "Based on the previews project Nexus Stages future ville was a project that i had the pleasure to prototype.",
+		"skills": "Unity3d, node.js, socket.io, projection mapping, mad mapper, arduino.",
+		"link": "http://nexusproductions.com/work/futureville"
+	}, {
+		"type": 1,
+		"title": "02' 2014 - Nexus Stages",
+		"client": "Nexus Interactive Arts",
+		"description": "One of the best projects that i've worked with, we build this puppet house where you could play a game with your mobile phone and controll a projected character who move physical components at the house",
+		"skills": "Unity3d, node.js, socket.io, projection mapping, mad mapper, arduino, motors, led, 3d printing",
+		"link": "http://nexusproductions.com/work/nexus-stage"
+	}, {
+		"type": 1,
+		"title": "12' 2013 - The Encyclopedia of Aquatic Affairs",
+		"client": "Nexus Interactive Arts",
+		"description": "Encyclopedia of objects from those amazing underwhater creatures.\nIphone and Android app.",
+		"skills": "Unity3d",
+		"link": "https://goo.gl/rfUi8b"
+	}, {
+		"type": 1,
+		"title": "10' 2013 - Vodafone 4g Tour",
+		"client": "Inition",
+		"description": "Argumented reallity on the top of a physical city.",
+		"skills": "Unity3d, Vuforia, Ar",
+		"link": "https://www.youtube.com/watch?v=hez9_vR2TVA"
+	}, {
+		"type": 1,
+		"title": "06' 2013 - MTV worldcup games",
+		"client": "RoyalPixel",
+		"description": "Compilation of 5 mini games based on dumb ways to die done in a really tight timeframe.",
+		"skills": "Flash",
+		"link": "http://www.royalpixel.tv/projetos/copa-do-caos-mtv/"
+	}, {
+		"type": 1,
+		"title": "12' 2012 - MC Bites",
+		"client": "Joystik Interactive - Razorfish",
+		"description": "Maze game to advertize the new McBites.",
+		"skills": "Unity3d, Flash",
+		"link": "https://vimeo.com/66334793"
+	}]
+}
