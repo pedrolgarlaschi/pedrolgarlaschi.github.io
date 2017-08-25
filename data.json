@@ -9,6 +9,38 @@
 	}, 
 	{
 		"type": 2,
+		"title": "06' 2017 - Swipes for love dating machine",
+		"client": "Collaboration",
+		"description": "Collaboration to create a timder swipe machine.",
+		"skills": "Arduino, C",
+		"link": "https://www.imaginealady.com/tech/imagine-a-lady-tech-swipe-for-love-on-robot-love-happens-here-cucumber-leeks"
+	},
+	{
+		"type": 1,
+		"title": "05' 2017 - Shard Walk the plank",
+		"client": "Inition",
+		"description": "Technical lead.",
+		"skills": "Unity Integartion with DMX controllers.",
+		"link": ""
+	}, 
+	{
+		"type": 1,
+		"title": "05' 2017 - Adidas",
+		"client": "Inition",
+		"description": "Technical lead, i've integrated the work of several 3rd party partners involved in the project.",
+		"skills": "Unity integration with OSC Max MSP, Unity integration Arduino.",
+		"link": ""
+	},
+	{
+		"type": 1,
+		"title": "01' 2017 - Sotheby's art Galery",
+		"client": "Inition",
+		"description": "Lead developer i've creted a interactive screen for sotheby's art gallery.",
+		"skills": "Unity3d, Contentfull inetagration.",
+		"link": ""
+	}, 
+	{
+		"type": 2,
 		"title": "11' 2016 - Buendiacollective",
 		"client": "Collaboration",
 		"description": "Collaboration to create a library where people can share and track books around public spaces.",
@@ -22,7 +54,8 @@
 		"description": "HTC Vive Game for the new ford kuga event.",
 		"skills": "unity3d, HTC Vive, VR",
 		"link": "https://www.inition.co.uk/case_study/state-art-virtual-reality-experience-ford-kuga/"
-	}, {
+	}, 
+	{
 		"type": 1,
 		"title": "08' 2016 - HTC Vive & Microsoft HoloLens prototyping",
 		"client": "The Masters of Pie",
