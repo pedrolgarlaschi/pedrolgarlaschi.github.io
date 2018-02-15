@@ -1,12 +1,5 @@
 {
-	"data": [{
-		"type": 0,
-		"title": "04' 1984 - About me :)",
-		"client": "",
-		"description": "Hey there,\nMy name is Pedro.I'm an Brazilian technologist based in London passionate for coding, art and technology.\nKeen to think that technology should take people back to the real life and not the other way around, i've been pushing myself to play more with installations, arduino, projection mapping, games, unity, c#, c++, cinder, oF, node.js, data analysis and visualization.\nIf by any chance you want to make some cool project, partnerships or have some cold beers, give me a shout.\npedro.garlaschi@gmail.com",
-		"skills": "",
-		"link": ""
-	}, 
+	"data": [
 	{
 		"type": 2,
 		"title": "06' 2017 - Swipes for love dating machine",
